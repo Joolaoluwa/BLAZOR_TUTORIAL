@@ -29,3 +29,4 @@ C:\Users\Joshua\Desktop\My_folders\Blazor_tutorial\BLAZOR_TUTORIAL\obj\Debug\net
 C:\Users\Joshua\Desktop\My_folders\Blazor_tutorial\BLAZOR_TUTORIAL\obj\Debug\net7.0\BLAZOR_TUTORIAL.pdb
 C:\Users\Joshua\Desktop\My_folders\Blazor_tutorial\BLAZOR_TUTORIAL\obj\Debug\net7.0\BLAZOR_TUTORIAL.genruntimeconfig.cache
 C:\Users\Joshua\Desktop\My_folders\Blazor_tutorial\BLAZOR_TUTORIAL\obj\Debug\net7.0\ref\BLAZOR_TUTORIAL.dll
+C:\Users\Joshua\Desktop\My_folders\Blazor_tutorial\BLAZOR_TUTORIAL\obj\Debug\net7.0\BLAZOR_TUTORIAL.sourcelink.json

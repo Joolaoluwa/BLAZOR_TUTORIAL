@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BLAZOR_TUTORIAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2feed00eb7b714a4fb2f3ae9b9165b48784c4831")]
 [assembly: System.Reflection.AssemblyProductAttribute("BLAZOR_TUTORIAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BLAZOR_TUTORIAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -8,6 +8,14 @@
 
 <button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
 
+<ul>
+    @for (int i = 0; i < currentCount; i++)
+    {
+        <li>
+            base @i
+        </li>
+    }
+</ul>
 @code {
     private int currentCount = 0;
 
